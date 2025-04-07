@@ -1,0 +1,6 @@
+flask
+random
+datetime
+requests
+base64
+pyttsx3
